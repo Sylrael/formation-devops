@@ -1,4 +1,4 @@
-before install:
+before_install:
 - npm install -g mocha
 
 language: node_js
